@@ -5,4 +5,4 @@ The project is meant to demonstrate that its capable to decode digital signals u
 
 The hardware fork includes the schematic and board layout for the hardware needed and the software fork includes all source code used for the project.
 
-This project is made available to others to use, modify, experiment and build upon for non-commercial purposes.
+This work is licensed under a Creative Commons License (http://creativecommons.org/licenses/by-nc/4.0/)
